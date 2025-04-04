@@ -1,5 +1,5 @@
-a=6
-b=6
+a=3
+b=4
 add=a+b
 sub=a-b
 mul=a*b

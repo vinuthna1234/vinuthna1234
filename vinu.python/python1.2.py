@@ -1,5 +1,5 @@
-a=eval(input("enter  a value 1 : "))
-b=eval(input("enter a value 2 : "))
+a=eval(input("enter the first value : "))
+b=eval(input("enter the second value : "))
 add=a+b
 sub=a-b
 div=a/b
@@ -10,6 +10,7 @@ print(sub)
 print(div)
 print(mul)
 print(mod)
+
        
        
        
